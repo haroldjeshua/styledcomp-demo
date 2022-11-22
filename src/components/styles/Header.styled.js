@@ -19,3 +19,10 @@ export const Nav = styled.nav`
   justify-content: space-between;
   margin-bottom: 40px;
 `;
+
+export const Logo = styled.img``;
+
+export const Image = styled.img`
+  width: 375px;
+  margin-left: 40px;
+`;

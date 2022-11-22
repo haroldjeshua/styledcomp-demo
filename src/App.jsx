@@ -17,9 +17,7 @@ function App() {
       <>
         <GlobalStyles />
         <Header />
-        <Container>
-          <h1>Hello World</h1>
-        </Container>
+        <Container></Container>
       </>
     </ThemeProvider>
   );
